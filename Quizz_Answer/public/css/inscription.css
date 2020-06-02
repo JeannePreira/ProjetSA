@@ -1,0 +1,49 @@
+[class*="col-"]{
+   
+    border-radius: 6px;
+}
+.img-circle{
+   /* background-image: url('../../public/images/bella.jpg');
+    height: 40px;*/
+}
+.header{
+    width: 100%;
+    display: flex;
+    font-size: 15px;
+}
+.connexion-blo{
+    margin: auto;
+    position: relative; 
+    margin-top: 20px; 
+    padding-bottom: 20px; 
+}
+.connexion-bloc2{
+    background-color: pink;
+    border-radius: 10px;
+    padding-top:20px;
+    position: relative;
+    top:10px;
+    height: 435px;
+}
+.input_form{
+    height: 25px;
+}
+label,.input_form,.btn-primary,.line-error{
+    font-size: 10px;
+}
+.choix{
+    width: 40%;
+    height: 30px;
+    margin: auto;
+}
+.line-error{
+    color: lightcoral;
+    word-wrap: 100%;
+    font-weight: bold;
+}
+.validation{
+    width: 80%;
+    margin: auto;
+    position: relative;
+    top: 20px;
+}
